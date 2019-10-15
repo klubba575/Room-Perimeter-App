@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\bin\Debug\netcoreapp2.2\Room Calculator Lab.deps.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\bin\Debug\netcoreapp2.2\Room Calculator Lab.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\bin\Debug\netcoreapp2.2\Room Calculator Lab.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\bin\Debug\netcoreapp2.2\Room Calculator Lab.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\bin\Debug\netcoreapp2.2\Room Calculator Lab.pdb
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.csproj.CoreCompileInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Room Calculator Lab\Room Calculator Lab\obj\Debug\netcoreapp2.2\Room Calculator Lab.pdb
